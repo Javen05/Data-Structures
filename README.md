@@ -1,10 +1,12 @@
 ## Data-Structures
-> Data Structures and Algorithms using Python3
+Data Structures and Algorithms using Python3
 
-### Assg 1
-> turtle module, quicksort algorithm, functions and menu
+### Assg 1:
+turtle module, quicksort algorithm, functions and menu
+> some portions were removed as they are deemed irrelevant
 
-### Assg 2: palindrome by word, program, game
+### Assg 2:
+palindrome by word, program, game
 > V1: Qn2 - Recursion function for program
 
 > V2: Qn2 - Converted functions in loops
